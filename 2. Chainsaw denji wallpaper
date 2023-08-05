@@ -763,6 +763,13 @@
       "wallpaper_name": "wallpaper104",
       "wallpaper_type": "MP4",
       "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/6c/f8/48/6cf848ce42313b5d4e7324af758fef65.mp4"
+    },
+    {
+      "id": 105,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper105",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/f1/e4/dd/f1e4dd3dfbae550b0d9af0118181fdf6.jpg"
     }
   ]
 }
