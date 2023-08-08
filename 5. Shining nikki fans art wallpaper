@@ -29,11 +29,8 @@
   "Categories": [
   {
     "name_category": "wallpaper",
-    "wallpaper_url": ""
-  },
-    {"name_category": "Live wallpaper",
-    "wallpaper_url": ""}
-
+    "wallpaper_url": "https://i.pinimg.com/564x/19/2e/cb/192ecb5596c34fa1b948ba7e5c06f9b5.jpg"
+  }
 ],
   "Wallpaper": [
     {
@@ -713,63 +710,63 @@
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper97",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/cd/85/dd/cd85dd0a369662a5df2d0803621ddcfe.jpg"
     },
     {
       "id": 98,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper98",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/21/c9/f6/21c9f66a227244d2b2497c53d0df1f2e.jpg"
     },
     {
       "id": 99,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper99",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/7c/e9/f6/7ce9f6623a46e625d36fe0b2016a8824.jpg"
     },
     {
       "id": 100,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper100",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/e7/c6/56/e7c65630a9a63d5d810cc37fbc0abfd1.jpg"
     },
     {
       "id": 101,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper101",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/f3/64/8d/f3648d5b40ecdde8075e568a0cfbd40c.jpg"
     },
     {
       "id": 102,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper102",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/6d/e9/cb/6de9cbf43c7b6525783f0d5961370e7c.jpg"
     },
     {
       "id": 103,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper103",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/ca/21/cc/ca21cc90a0f8f2bfcfa592aad5a530ff.jpg"
     },
     {
       "id": 104,
-      "name_category": "Live wallpaper",
+      "name_category": "wallpaper",
       "wallpaper_name": "wallpaper104",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": ""
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/7b/29/b7/7b29b7e970393083eff0849aa42d750b.jpg"
     },
     {
       "id": 105,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper105",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/7f/6d/a0/7f6da063bbac48397644f649a23f04bc.jpg"
     }
   ]
 }
