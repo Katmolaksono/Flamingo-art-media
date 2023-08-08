@@ -23,15 +23,14 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia&hl=en"
-
     }
   ],
-   "Categories": [
+  "Categories": [
     {
       "name_category": "Doraemon",
       "wallpaper_url": "https://fsa.zobj.net/crop.php?r=Hdtgnfy-9xugpSsyFDEiR1k5aJijAz3-GX8cKLRRjpmckegj2NFQJqvga3V5ikLVz2MAvlxAQbf0eH11Ngt7d-VfAuamDbpIFOPXf7y97dkUAT-IgNcH2MEvfR1uEAjiWyMeWOzr0ACMwbifoAHI6tKcaj0hdzT1jOnHdTOSJECnTlY_uSHlphqcKS5eHKQrt9JDMry7Ia5FQan7"
-    },
-  ]
+    }
+  ],
   "Wallpaper": [
     {
       "id": 1,
