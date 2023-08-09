@@ -36,7 +36,11 @@
     },
     {
       "name_category": "Gojo Satoru",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/4b/ea/84/4bea84d06f8d45dd8d27eac8e1f390ce.png"
+    },
+    {
+      "name_category": "Sukuna",
+      "wallpaper_url": "https://i.pinimg.com/originals/c5/30/b6/c530b604e1c7091b9333491a13b7d9d8.jpg"
     }
   ],
   "Wallpaper": [
@@ -742,10 +746,318 @@
     },
     {
       "id": 101,
-      "name_category": "Image Wallpaper",
+      "name_category": "Sukuna",
       "wallpaper_name": "item101",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/originals/77/26/62/772662dad3dcae951c24518d80033890.jpg"
+    },
+    {
+      "id": 102,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item102",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/750x/a4/79/fd/a479fd3e83a18195cdc759963e86e95c.jpg"
+    },
+    {
+      "id": 103,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item103",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/07/94/69/0794693352e68ec37e890045c2acc8c2.jpg"
+    },
+    {
+      "id": 105,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item105",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/4b/ea/84/4bea84d06f8d45dd8d27eac8e1f390ce.png"
+    },
+    {
+      "id": 106,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item106",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/b4/f5/f1/b4f5f10ebcb2d3ae9fce6080a442bfae.mp4"
+    },
+    {
+      "id": 107,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item107",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/a8/22/4e/a8224e000115ba5b0369afa7a06ce26a.jpg"
+    },
+    {
+      "id": 108,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item108",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c7/5e/29/c75e2935538a7c7ef1028b7f28f0af6d.jpg"
+    },
+    {
+      "id": 109,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item109",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/61/4b/51/614b517c90f151ee3576cd29307dc3f9.mp4"
+    },
+    {
+      "id": 110,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item110",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/cd/10/f3/cd10f32b27142f392c1735f1fec5460b.jpg"
+    },
+    {
+      "id": 111,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item111",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/1d/db/72/1ddb72465ceb6af89f8f2fbba0b17de4.jpg"
+    },
+    {
+      "id": 112,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item112",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/cc/76/a2/cc76a2f0e4cc551ef8ee352f524d28d8.jpg"
+    },
+    {
+      "id": 113,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item113",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/4d/98/db/4d98db2bfe102e161194f8b49982eb9d.mp4"
+    },
+    {
+      "id": 114,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item114",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/28/5e/98/285e9822dcb277b3cd923dc2c5d09238.jpg"
+    },
+    {
+      "id": 115,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item115",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/5e/51/bb/5e51bb8012a3b97d9395d9e3b8e4de2f.jpg"
+    },
+    {
+      "id": 116,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item116",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/19/aa/6a/19aa6a4282a38b5ae88e36760227728f.jpg"
+    },
+    {
+      "id": 117,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item117",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/d6/b0/d6/d6b0d6fc8f563ca3b3efb83989579a8a.jpg"
+    },
+    {
+      "id": 118,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item118",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/1f/fb/97/1ffb97d8303db422e5c4c25228549c92.jpg"
+    },
+    {
+      "id": 119,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item119",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/46/7c/01/467c010d5901cf71749e95eb9f8c186e.jpg"
+    },
+    {
+      "id": 120,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item120",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/77/6a/d7/776ad7f4e8751b384b80fb21b6ac8f1d.jpg"
+    },
+    {
+      "id": 121,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item121",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/f7/f8/83/f7f8836974c3baa22f86d14db93e272a.jpg"
+    },
+    {
+      "id": 122,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item122",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/4b/ff/87/4bff878c3e2e3cd04908fb8f49602843.jpg"
+    },
+    {
+      "id": 123,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item123",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/5a/c6/f65ac6e868f6d95e312e6190ce41c388.jpg"
+    },
+    {
+      "id": 124,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item124",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/0b/ce/82/0bce82dc82ada1f05793eb45e0e108d5.jpg"
+    },
+    {
+      "id": 125,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item125",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/e2/ba/7d/e2ba7d8ef0e9d12cd9865e88698662a2.jpg"
+    },
+    {
+      "id": 126,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item126",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/11/4e/1b/114e1bf275ff7cff914bb87ed9826403.jpg"
+    },
+    {
+      "id": 127,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item127",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/d2/87/5c/d2875c13870df03719d73ce7bdac4b99.jpg"
+    },
+    {
+      "id": 128,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item128",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 129,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item129",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 130,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item130",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 131,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item131",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 132,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item132",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 133,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item133",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 134,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item134",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 135,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item135",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 136,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item136",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 137,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item137",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 138,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item138",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 139,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item139",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 140,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item140",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 141,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item141",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 142,
+      "name_category": "Gojo Satoru",
+      "wallpaper_name": "item142",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 143,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item143",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 144,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item144",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 145,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item145",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 146,
+      "name_category": "Sukuna",
+      "wallpaper_name": "item146",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
     }
   ]
 }
