@@ -36,11 +36,11 @@
     },
     {
       "name_category": "Alhaitham",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/0f/b5/07/0fb5071efa6abaedb21cf260394f7931.jpg"
     },
     {
-      "name_category": "Sukuna",
-      "wallpaper_url": ""
+      "name_category": "Raiden Shogun",
+      "wallpaper_url": "https://i.pinimg.com/564x/73/a5/ac/73a5ac0e8495ee7f053a9b7fd0952631.jpg"
     }
   ],
   "Wallpaper": [
@@ -361,9 +361,9 @@
     },
     {
       "id": 46,
-      "name_category": "Image Live Wallpaper",
+      "name_category": "Raiden Shogun",
       "wallpaper_name": "item46",
-      "wallpaper_type": "MP4",
+      "wallpaper_type": "IMAGE",
       "wallpaper_url": ""
     },
     {
