@@ -27,15 +27,15 @@
   ],
   "Categories": [
     {
-      "name_category": "Image Wallpaper",
-      "wallpaper_url": ""
+      "name_category": "Albedo",
+      "wallpaper_url": "https://i.pinimg.com/564x/81/12/6c/81126c48f5d5757e45d3c3a79f24d08c.jpg"
     },
     {
-      "name_category": "Image Live Wallpaper",
-      "wallpaper_url": ""
+      "name_category": "Yae miko",
+      "wallpaper_url": "https://i.pinimg.com/originals/6c/39/2a/6c392a7281550d90de6f80462ba737bc.jpg"
     },
     {
-      "name_category": "Gojo Satoru",
+      "name_category": "Alhaitham",
       "wallpaper_url": ""
     },
     {
@@ -46,318 +46,318 @@
   "Wallpaper": [
     {
       "id": 1,
-      "name_category": "Image Live Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item1",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": ""
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/81/12/6c/81126c48f5d5757e45d3c3a79f24d08c.jpg"
     },
     {
       "id": 2,
-      "name_category": "Image Live Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item2",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": ""
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/60/a8/b2/60a8b2f2fc8b5e0a9d75a7db36a70990.jpg"
     },
     {
       "id": 3,
-      "name_category": "Image Live Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item3",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": ""
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/68/0e/59/680e598fb3d81f448b97a292967938d5.jpg"
     },
     {
       "id": 4,
-      "name_category": "Image Live Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item4",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": ""
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/69/c8/1f/69c81f912a7a5b434a3873a467a0bd0c.jpg"
     },
     {
       "id": 5,
-      "name_category": "Image Live Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item5",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": ""
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/2f/5c/f72f5ced7cf9359648914b1882e0dc4d.jpg"
     },
     {
       "id": 6,
-      "name_category": "Image Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/84/18/b0/8418b0d44702b859afe64d99885bf6c0.jpg"
     },
     {
       "id": 7,
-      "name_category": "Image Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/88/4c/17/884c1786b3d4e17b433373c7e3c5cdfc.jpg"
     },
     {
       "id": 8,
-      "name_category": "Image Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/99/a3/04/99a304dddb96dc709109ca5de9a5b109.jpg"
     },
     {
       "id": 9,
-      "name_category": "Image Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/c5/44/6ac5443f8ce5cb4a1434a910f3c32ad6.jpg"
     },
     {
       "id": 10,
-      "name_category": "Image Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item10",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/34/ec/67/34ec67dd3d72002e9f590769112287a6.jpg"
     },
     {
       "id": 11,
-      "name_category": "Image Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item11",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/db/f1/f6dbf1a44793c2414f323d371c1ec20b.jpg"
     },
     {
       "id": 12,
-      "name_category": "Image Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item12",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/ea/4a/c1/ea4ac1d942d0317572fb708e4724fafd.jpg"
     },
     {
       "id": 13,
-      "name_category": "Image Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item13",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/40/fd/12/40fd12dba9b8ea602b8c5e0224d93eb0.jpg"
     },
     {
       "id": 14,
-      "name_category": "Image Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/8c/87/8b8c873c217290e14311bf8f59d9e0dc.jpg"
     },
     {
       "id": 15,
-      "name_category": "Image Wallpaper",
+      "name_category": "Albedo",
       "wallpaper_name": "item15",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/ba/03/e2/ba03e2c128c05350390e51f8070efd7f.jpg"
     },
     {
       "id": 16,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item16",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/6c/39/2a/6c392a7281550d90de6f80462ba737bc.jpg"
     },
     {
       "id": 17,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item17",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/54/77/f75477b462113ea7dc16f299dc3eab2d.jpg"
     },
     {
       "id": 18,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item18",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/84/4c/6c/844c6c3dceb22d4b862925d73e765c85.jpg"
     },
     {
       "id": 19,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item19",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/c7/fc/b6/c7fcb652eaedc8aa42127004fea4a1d2.jpg"
     },
     {
       "id": 20,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item20",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/53/d5/6d53d5e6b47eba2e7d8de76ce300e108.jpg"
     },
     {
       "id": 21,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item21",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/19/03/e0/1903e027fa73497c74b75eb209ec6f21.jpg"
     },
     {
       "id": 22,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item22",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/ae/33/b1/ae33b181633a9be3c3e67cae1d1da48b.jpg"
     },
     {
       "id": 23,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item23",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/22/44/90/224490812ee15c5586e74527565c8239.jpg"
     },
     {
       "id": 24,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item24",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/46/34/c6/4634c6e7fc61ff54d5e995057427d8e8.jpg"
     },
     {
       "id": 25,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item25",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/d0/be/69/d0be69ece668baa0705fa13e87a99111.jpg"
     },
     {
       "id": 26,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item26",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/95/75/17/957517409a69983b85441adea9f85444.jpg"
     },
     {
       "id": 27,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item27",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/a9/ca/70/a9ca70c0b3ecee3912848f662b293cf0.jpg"
     },
     {
       "id": 28,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item28",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/28/44/92/2844929110eaf8e0b86be8ffd1cdcf87.png"
     },
     {
       "id": 29,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item29",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/f2/78/bf/f278bf712484d1eb17dd500084aabb78.jpg"
     },
     {
       "id": 30,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item30",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/a8/ac/11/a8ac110ad5098591eef3199b9084b835.jpg"
     },
     {
       "id": 31,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item31",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/dc/c4/5b/dcc45b431643acc86fea1f76621470ac.jpg"
     },
     {
       "id": 32,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item32",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/39/69/47/396947ae62c05755084ce42829b0e6d2.jpg"
     },
     {
       "id": 33,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item33",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/ba/34/67/ba3467bfbcab9c6470ea6efab0bae2ce.jpg"
     },
     {
       "id": 34,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item34",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/09/be/ea/09beea562554155ddb4f3db81fa4c2e1.jpg"
     },
     {
       "id": 35,
-      "name_category": "Image Wallpaper",
+      "name_category": "Yae miko",
       "wallpaper_name": "item35",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/5f/3d/7f/5f3d7f6544f26d0fc2945a602f2d1def.jpg"
     },
     {
       "id": 36,
-      "name_category": "Image Wallpaper",
+      "name_category": "Alhaitham",
       "wallpaper_name": "item36",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/48/19/47/48194772f30a4833475879c64fda933c.jpg"
     },
     {
       "id": 37,
-      "name_category": "Image Wallpaper",
+      "name_category": "Alhaitham",
       "wallpaper_name": "item37",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/c2/ac/c3c2ac34080741fb1034961ed409b071.jpg"
     },
     {
       "id": 38,
-      "name_category": "Image Wallpaper",
+      "name_category": "Alhaitham",
       "wallpaper_name": "item38",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/564x/d4/92/28/d49228c19c7a8defe8088ffb1f8bf5b9.jpg"
     },
     {
       "id": 39,
-      "name_category": "Image Wallpaper",
+      "name_category": "Alhaitham",
       "wallpaper_name": "item39",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/35/fb/e2/35fbe2229afc584249c4d18de3771d91.jpg"
     },
     {
       "id": 40,
-      "name_category": "Image Wallpaper",
+      "name_category": "Alhaitham",
       "wallpaper_name": "item40",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/03/43/4c/03434cd73d6f1b2fd784a9894dd68f4e.jpg"
     },
     {
       "id": 41,
-      "name_category": "Image Wallpaper",
+      "name_category": "Alhaitham",
       "wallpaper_name": "item41",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/4d/32/f5/4d32f5237d1d4bf9c330c9491e42e266.jpg"
     },
     {
       "id": 42,
-      "name_category": "Image Wallpaper",
+      "name_category": "Alhaitham",
       "wallpaper_name": "item42",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/19/e2/f0/19e2f0281dfd7677b086ff2dd366f778.jpg"
     },
     {
       "id": 43,
-      "name_category": "Image Wallpaper",
+      "name_category": "Alhaitham",
       "wallpaper_name": "item43",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/15/00/6a/15006af197959959ca08e4cb858f1959.jpg"
     },
     {
       "id": 44,
-      "name_category": "Image Live Wallpaper",
+      "name_category": "Alhaitham",
       "wallpaper_name": "item44",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": ""
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/86/2a/1b/862a1b7bc3781ecd30524fe671e3d723.jpg"
     },
     {
       "id": 45,
-      "name_category": "Image Wallpaper",
+      "name_category": "Alhaitham",
       "wallpaper_name": "item45",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://i.pinimg.com/originals/4b/93/81/4b9381c1e553d7c07c3567d1e8a9224f.jpg"
     },
     {
       "id": 46,
