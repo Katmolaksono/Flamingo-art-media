@@ -69,6 +69,10 @@
     {
       "name_category": "Live Wallpaper",
       "wallpaper_url": "https://i.pinimg.com/564x/fa/ce/c2/facec2190667d65c44434e6afce2adc3.jpg"
+    },
+    {
+      "name_category": "Wallpaper Colection",
+      "wallpaper_url": "https://i.pinimg.com/564x/fa/ce/c2/facec2190667d65c44434e6afce2adc3.jpg"
     }
   ],
   "Wallpaper": [
@@ -1149,6 +1153,146 @@
       "wallpaper_name": "item155",
       "wallpaper_type": "MP4",
       "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/f3/d1/32/f3d13261c11b87d347cb946d1d9576e7.mp4"
+    },
+    {
+      "id": 156,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item156",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 157,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item157",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 158,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item158",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 159,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item159",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 160,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item160",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 161,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item161",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 162,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item162",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 163,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item163",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 164,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item164",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 165,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item165",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 166,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item166",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 167,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item167",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 168,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item168",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 169,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item169",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 170,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item170",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 171,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item171",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 172,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item172",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 173,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item173",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 174,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item174",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 175,
+      "name_category": "Wallpaper Colection",
+      "wallpaper_name": "item175",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
     }
   ]
 }
