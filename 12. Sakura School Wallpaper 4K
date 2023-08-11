@@ -22,7 +22,7 @@
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.flamingoartmedia.yamiyugiwallpaperhd4k"
+      "link_redirect": "https://play.google.com/store/apps/details?id="
     }
   ],
   "Categories": [
@@ -44,9 +44,9 @@
     },
     {
       "id": 2,
-      "name_category": "Live wallpaper",
+      "name_category": "wallpaper",
       "wallpaper_name": "wallpaper2",
-      "wallpaper_type": "MP4",
+      "wallpaper_type": "IMAGE",
       "wallpaper_url": ""
     },
     {
@@ -58,9 +58,9 @@
     },
     {
       "id": 4,
-      "name_category": "Live wallpaper",
+      "name_category": "wallpaper",
       "wallpaper_name": "wallpaper4",
-      "wallpaper_type": "MP4",
+      "wallpaper_type": "IMAGE",
       "wallpaper_url": ""
     },
     {
@@ -72,9 +72,9 @@
     },
     {
       "id": 6,
-      "name_category": "Live wallpaper",
+      "name_category": "wallpaper",
       "wallpaper_name": "wallpaper6",
-      "wallpaper_type": "MP4",
+      "wallpaper_type": "IMAGE",
       "wallpaper_url": ""
     },
     {
@@ -387,9 +387,9 @@
     },
     {
       "id": 51,
-      "name_category": "Live wallpaper",
+      "name_category": "wallpaper",
       "wallpaper_name": "wallpaper51",
-      "wallpaper_type": "MP4",
+      "wallpaper_type": "IMAGE",
       "wallpaper_url": ""
     },
     {
@@ -597,9 +597,9 @@
     },
     {
       "id": 81,
-      "name_category": "Live wallpaper",
+      "name_category": "wallpaper",
       "wallpaper_name": "wallpaper81",
-      "wallpaper_type": "GIF",
+      "wallpaper_type": "IMAGE",
       "wallpaper_url": ""
     },
     {
@@ -611,16 +611,16 @@
     },
     {
       "id": 83,
-      "name_category": "Live wallpaper",
+      "name_category": "wallpaper",
       "wallpaper_name": "wallpaper83",
-      "wallpaper_type": "GIF",
+      "wallpaper_type": "IMAGE",
       "wallpaper_url": ""
     },
     {
       "id": 84,
-      "name_category": "Live wallpaper",
+      "name_category": "wallpaper",
       "wallpaper_name": "wallpaper84",
-      "wallpaper_type": "GIF",
+      "wallpaper_type": "IMAGE",
       "wallpaper_url": ""
     },
     {
@@ -758,9 +758,9 @@
     },
     {
       "id": 104,
-      "name_category": "Live wallpaper",
+      "name_category": "wallpaper",
       "wallpaper_name": "wallpaper104",
-      "wallpaper_type": "MP4",
+      "wallpaper_type": "IMAGE",
       "wallpaper_url": ""
     },
     {
